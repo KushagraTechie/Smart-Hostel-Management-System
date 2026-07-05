@@ -177,6 +177,33 @@ void RoomManagement::on_btnUpdate_clicked()
 
 void RoomManagement::on_btnDelete_clicked()
 {
+    QString roomNo = ui->txtRoomNo->text();
 
+    for(int row = 0; row < ui->tableRooms->rowCount(); row++)
+    {
+        if(ui->tableRooms->item(row, 0)->text() == roomNo)
+        {
+            ui->tableRooms->removeRow(row);
+
+            saveTableToFile();
+
+            QMessageBox::information(
+                this,
+                "Delete",
+                "Room deleted successfully!");
+
+            ui->txtRoomNo->clear();
+            ui->txtRoomType->clear();
+            ui->txtCapacity->clear();
+            ui->txtOccupied->clear();
+
+            return;
+        }
+    }
+
+    QMessageBox::warning(
+        this,
+        "Delete",
+        "Room not found!");
 }
 
