@@ -22,7 +22,7 @@ class Ui_Dialog
 public:
     QLabel *label;
     QPushButton *btnStudentManagement;
-    QPushButton *pushButton_2;
+    QPushButton *btnRoomManagement;
     QPushButton *pushButton_3;
     QPushButton *pushButton_4;
     QPushButton *pushButton_5;
@@ -42,9 +42,9 @@ public:
         btnStudentManagement = new QPushButton(Dialog);
         btnStudentManagement->setObjectName("btnStudentManagement");
         btnStudentManagement->setGeometry(QRect(80, 100, 161, 29));
-        pushButton_2 = new QPushButton(Dialog);
-        pushButton_2->setObjectName("pushButton_2");
-        pushButton_2->setGeometry(QRect(330, 100, 151, 29));
+        btnRoomManagement = new QPushButton(Dialog);
+        btnRoomManagement->setObjectName("btnRoomManagement");
+        btnRoomManagement->setGeometry(QRect(330, 100, 151, 29));
         pushButton_3 = new QPushButton(Dialog);
         pushButton_3->setObjectName("pushButton_3");
         pushButton_3->setGeometry(QRect(80, 170, 151, 29));
@@ -68,7 +68,7 @@ public:
         Dialog->setWindowTitle(QCoreApplication::translate("Dialog", "Dialog", nullptr));
         label->setText(QCoreApplication::translate("Dialog", "SMART HOSTEL MANAGEMENT SYSTEM", nullptr));
         btnStudentManagement->setText(QCoreApplication::translate("Dialog", "Student Management", nullptr));
-        pushButton_2->setText(QCoreApplication::translate("Dialog", "Room Management", nullptr));
+        btnRoomManagement->setText(QCoreApplication::translate("Dialog", "Room Management", nullptr));
         pushButton_3->setText(QCoreApplication::translate("Dialog", "Fee Management", nullptr));
         pushButton_4->setText(QCoreApplication::translate("Dialog", "Complaint Management", nullptr));
         pushButton_5->setText(QCoreApplication::translate("Dialog", "Profile", nullptr));

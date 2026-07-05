@@ -295,6 +295,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+roommanagement.obj: roommanagement.cpp.obj
+.PHONY : roommanagement.obj
+
+# target to build an object file
+roommanagement.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj
+.PHONY : roommanagement.cpp.obj
+
+roommanagement.i: roommanagement.cpp.i
+.PHONY : roommanagement.i
+
+# target to preprocess a source file
+roommanagement.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.i
+.PHONY : roommanagement.cpp.i
+
+roommanagement.s: roommanagement.cpp.s
+.PHONY : roommanagement.s
+
+# target to generate assembly for a file
+roommanagement.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.s
+.PHONY : roommanagement.cpp.s
+
 studentmanagement.obj: studentmanagement.cpp.obj
 .PHONY : studentmanagement.obj
 
@@ -346,6 +370,9 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... roommanagement.obj
+	@echo ... roommanagement.i
+	@echo ... roommanagement.s
 	@echo ... studentmanagement.obj
 	@echo ... studentmanagement.i
 	@echo ... studentmanagement.s

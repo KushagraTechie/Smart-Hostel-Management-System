@@ -143,13 +143,29 @@ CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.s"
 	C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shivv\Downloads\SmartHostelManagementSystem\studentmanagement.cpp -o CMakeFiles\SmartHostelManagementSystem.dir\studentmanagement.cpp.s
 
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj: CMakeFiles/SmartHostelManagementSystem.dir/flags.make
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj: CMakeFiles/SmartHostelManagementSystem.dir/includes_CXX.rsp
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj: C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj: CMakeFiles/SmartHostelManagementSystem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj"
+	C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj -MF CMakeFiles\SmartHostelManagementSystem.dir\roommanagement.cpp.obj.d -o CMakeFiles\SmartHostelManagementSystem.dir\roommanagement.cpp.obj -c C:\Users\shivv\Downloads\SmartHostelManagementSystem\roommanagement.cpp
+
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.i"
+	C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shivv\Downloads\SmartHostelManagementSystem\roommanagement.cpp > CMakeFiles\SmartHostelManagementSystem.dir\roommanagement.cpp.i
+
+CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.s"
+	C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shivv\Downloads\SmartHostelManagementSystem\roommanagement.cpp -o CMakeFiles\SmartHostelManagementSystem.dir\roommanagement.cpp.s
+
 # Object files for target SmartHostelManagementSystem
 SmartHostelManagementSystem_OBJECTS = \
 "CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj" \
 "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj" \
 "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj" \
-"CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj"
+"CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj" \
+"CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj"
 
 # External object files for target SmartHostelManagementSystem
 SmartHostelManagementSystem_EXTERNAL_OBJECTS =
@@ -159,6 +175,7 @@ SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/main
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj
+SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/build.make
 SmartHostelManagementSystem.exe: C:/Users/shivv/Downloads/6.11.1/mingw_64/lib/libQt6Widgets.a
 SmartHostelManagementSystem.exe: C:/Users/shivv/Downloads/6.11.1/mingw_64/lib/libQt6Gui.a
@@ -168,7 +185,7 @@ SmartHostelManagementSystem.exe: SmartHostelManagementSystem.exe.manifest
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/linkLibs.rsp
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/objects1.rsp
 SmartHostelManagementSystem.exe: CMakeFiles/SmartHostelManagementSystem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable SmartHostelManagementSystem.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable SmartHostelManagementSystem.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SmartHostelManagementSystem.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

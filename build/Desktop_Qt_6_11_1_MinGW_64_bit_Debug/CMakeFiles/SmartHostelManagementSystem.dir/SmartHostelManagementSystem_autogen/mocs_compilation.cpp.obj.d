@@ -394,5 +394,7 @@ CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/m
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/QMainWindow \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/qmainwindow.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/qtabwidget.h \
+ C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\SmartHostelManagementSystem_autogen\EWIEGA46WW/moc_roommanagement.cpp \
+ C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.h \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\SmartHostelManagementSystem_autogen\EWIEGA46WW/moc_studentmanagement.cpp \
  C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.h

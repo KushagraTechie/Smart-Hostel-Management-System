@@ -79,16 +79,16 @@ clean: CMakeFiles/SmartHostelManagementSystem_autogen.dir/clean
 # Target rules for target CMakeFiles/SmartHostelManagementSystem.dir
 
 # All Build rule for target.
-CMakeFiles/SmartHostelManagementSystem.dir/all: CMakeFiles/SmartHostelManagementSystem_autogen.dir/all
 CMakeFiles/SmartHostelManagementSystem.dir/all: CMakeFiles/SmartHostelManagementSystem_autogen_timestamp_deps.dir/all
+CMakeFiles/SmartHostelManagementSystem.dir/all: CMakeFiles/SmartHostelManagementSystem_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target SmartHostelManagementSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target SmartHostelManagementSystem"
 .PHONY : CMakeFiles/SmartHostelManagementSystem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SmartHostelManagementSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SmartHostelManagementSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles 0
 .PHONY : CMakeFiles/SmartHostelManagementSystem.dir/rule
@@ -135,7 +135,7 @@ CMakeFiles/SmartHostelManagementSystem_autogen_timestamp_deps.dir/clean:
 CMakeFiles/SmartHostelManagementSystem_autogen.dir/all: CMakeFiles/SmartHostelManagementSystem_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem_autogen.dir\build.make CMakeFiles/SmartHostelManagementSystem_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem_autogen.dir\build.make CMakeFiles/SmartHostelManagementSystem_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=7 "Built target SmartHostelManagementSystem_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=8 "Built target SmartHostelManagementSystem_autogen"
 .PHONY : CMakeFiles/SmartHostelManagementSystem_autogen.dir/all
 
 # Build rule for subdir invocation for target.

@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/main.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj.d"
+  "C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj.d"
   )
 

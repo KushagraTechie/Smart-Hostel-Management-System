@@ -349,6 +349,8 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/main.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.h \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.h \
 	C:/Users/shivv/Downloads/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
@@ -598,5 +600,6 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.ui \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.ui \
 	C:/Users/shivv/Downloads/Tools/CMake_64/bin/cmake.exe

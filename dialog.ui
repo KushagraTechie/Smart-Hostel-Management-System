@@ -44,7 +44,7 @@
     <string>Student Management</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="btnRoomManagement">
    <property name="geometry">
     <rect>
      <x>330</x>

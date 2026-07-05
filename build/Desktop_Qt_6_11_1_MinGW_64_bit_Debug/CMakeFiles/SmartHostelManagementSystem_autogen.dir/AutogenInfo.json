@@ -354,6 +354,12 @@
 			null
 		],
 		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.h",
+			"MU",
+			"EWIEGA46WW/moc_roommanagement.cpp",
+			null
+		],
+		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.h",
 			"MU",
 			"EWIEGA46WW/moc_studentmanagement.cpp",
@@ -443,6 +449,11 @@
 		],
 		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp",
 			"MU",
 			null
 		],

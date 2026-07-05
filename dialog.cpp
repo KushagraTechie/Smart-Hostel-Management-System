@@ -1,3 +1,4 @@
+#include "roommanagement.h"
 #include "studentmanagement.h"
 #include "mainwindow.h"
 #include "dialog.h"
@@ -24,4 +25,9 @@ void Dialog::on_btnStudentManagement_clicked()
 {
     StudentManagement *student = new StudentManagement(this);
     student->show();
+}
+void Dialog::on_btnRoomManagement_clicked()
+{
+    RoomManagement *room = new RoomManagement(this);
+    room->show();
 }

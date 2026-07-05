@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj.d"
   "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj"
   "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj.d"
+  "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj"
+  "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj.d"
   "CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj"
   "CMakeFiles/SmartHostelManagementSystem.dir/studentmanagement.cpp.obj.d"
   "SmartHostelManagementSystem.exe"
