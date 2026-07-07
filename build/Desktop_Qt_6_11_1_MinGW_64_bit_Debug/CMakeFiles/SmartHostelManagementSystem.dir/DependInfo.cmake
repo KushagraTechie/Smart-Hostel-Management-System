@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem_autogen/mocs_compilation.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/mocs_compilation.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj.d"
+  "C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/main.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj.d"
   "C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp" "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj" "gcc" "CMakeFiles/SmartHostelManagementSystem.dir/roommanagement.cpp.obj.d"

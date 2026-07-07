@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SmartHostelManagementSystem_autogen"
   "SmartHostelManagementSystem_autogen/include/ui_dialog.h"
+  "SmartHostelManagementSystem_autogen/include/ui_feemanagement.h"
   "SmartHostelManagementSystem_autogen/include/ui_mainwindow.h"
   "SmartHostelManagementSystem_autogen/include/ui_roommanagement.h"
   "SmartHostelManagementSystem_autogen/include/ui_studentmanagement.h"

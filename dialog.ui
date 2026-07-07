@@ -57,7 +57,7 @@
     <string>Room Management</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="btnFeeManagement">
    <property name="geometry">
     <rect>
      <x>80</x>

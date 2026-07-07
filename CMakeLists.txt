@@ -14,6 +14,7 @@ qt_add_executable(SmartHostelManagementSystem
     dialog.h dialog.cpp dialog.ui
     studentmanagement.h studentmanagement.cpp studentmanagement.ui
     roommanagement.h roommanagement.cpp roommanagement.ui
+    feemanagement.h feemanagement.cpp feemanagement.ui
 )
 
 target_link_libraries(SmartHostelManagementSystem

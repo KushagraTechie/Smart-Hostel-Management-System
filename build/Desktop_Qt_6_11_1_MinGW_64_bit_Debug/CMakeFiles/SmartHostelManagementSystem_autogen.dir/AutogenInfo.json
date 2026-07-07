@@ -348,6 +348,12 @@
 			null
 		],
 		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.h",
+			"MU",
+			"EWIEGA46WW/moc_feemanagement.cpp",
+			null
+		],
+		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -439,6 +445,11 @@
 	[
 		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.cpp",
 			"MU",
 			null
 		],

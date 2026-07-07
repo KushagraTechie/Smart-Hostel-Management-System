@@ -389,6 +389,8 @@ CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/m
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtCore/qtmochelpers.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtCore/qtmocconstants.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtCore/q20algorithm.h \
+ C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\SmartHostelManagementSystem_autogen\EWIEGA46WW/moc_feemanagement.cpp \
+ C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.h \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\SmartHostelManagementSystem_autogen\EWIEGA46WW/moc_mainwindow.cpp \
  C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/QMainWindow \

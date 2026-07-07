@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj"
   "CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj.d"
+  "CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.obj"
+  "CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.obj.d"
   "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj"
   "CMakeFiles/SmartHostelManagementSystem.dir/main.cpp.obj.d"
   "CMakeFiles/SmartHostelManagementSystem.dir/mainwindow.cpp.obj"

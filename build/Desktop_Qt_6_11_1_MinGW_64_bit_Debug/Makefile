@@ -247,6 +247,30 @@ dialog.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.s
 .PHONY : dialog.cpp.s
 
+feemanagement.obj: feemanagement.cpp.obj
+.PHONY : feemanagement.obj
+
+# target to build an object file
+feemanagement.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.obj
+.PHONY : feemanagement.cpp.obj
+
+feemanagement.i: feemanagement.cpp.i
+.PHONY : feemanagement.i
+
+# target to preprocess a source file
+feemanagement.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.i
+.PHONY : feemanagement.cpp.i
+
+feemanagement.s: feemanagement.cpp.s
+.PHONY : feemanagement.s
+
+# target to generate assembly for a file
+feemanagement.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/feemanagement.cpp.s
+.PHONY : feemanagement.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -364,6 +388,9 @@ help:
 	@echo ... dialog.obj
 	@echo ... dialog.i
 	@echo ... dialog.s
+	@echo ... feemanagement.obj
+	@echo ... feemanagement.i
+	@echo ... feemanagement.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -346,6 +346,8 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem_autogen/moc_predefs.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.h \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.cpp \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/main.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.h \
@@ -599,6 +601,7 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.ui \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.ui \
