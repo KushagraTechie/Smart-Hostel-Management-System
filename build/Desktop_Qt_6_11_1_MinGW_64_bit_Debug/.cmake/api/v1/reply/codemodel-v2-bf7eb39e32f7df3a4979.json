@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-f801849b7256bd39deb2.json",
+					"jsonFile" : "directory-.-Debug-3b86ab547df2e4ed48a2.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SmartHostelManagementSystem::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SmartHostelManagementSystem-Debug-79eb91ba7287382a6e89.json",
+					"jsonFile" : "target-SmartHostelManagementSystem-Debug-71768bd26ce215233842.json",
 					"name" : "SmartHostelManagementSystem",
 					"projectIndex" : 0
 				},

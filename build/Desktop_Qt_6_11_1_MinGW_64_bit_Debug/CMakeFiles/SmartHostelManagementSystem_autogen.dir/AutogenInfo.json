@@ -342,6 +342,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/complaintmanagement.h",
+			"MU",
+			"EWIEGA46WW/moc_complaintmanagement.cpp",
+			null
+		],
+		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.h",
 			"MU",
 			"EWIEGA46WW/moc_dialog.cpp",
@@ -443,6 +449,11 @@
 	"SETTINGS_FILE" : "C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/SmartHostelManagementSystem_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/complaintmanagement.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp",
 			"MU",

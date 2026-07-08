@@ -17,13 +17,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 26,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 37,
+				"line" : 39,
 				"parent" : 0
 			}
 		]
@@ -45,7 +45,7 @@
 		{
 			"backtrace" : 2,
 			"component" : "Unspecified",
-			"scriptFile" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/deploy_SmartHostelManagementSystem_f54e31c533.cmake",
+			"scriptFile" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Profile/.qt/deploy_SmartHostelManagementSystem_f54e31c533.cmake",
 			"type" : "script"
 		}
 	],

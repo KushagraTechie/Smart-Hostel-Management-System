@@ -1,0 +1,3 @@
+C:\Users\shivv\Downloads\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\SmartHostelManagementSystem.dir/objects.a
+C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\SmartHostelManagementSystem.dir/objects.a @CMakeFiles\SmartHostelManagementSystem.dir\objects1.rsp
+C:\Users\shivv\Downloads\Tools\mingw1310_64\bin\g++.exe -O2 -g -DNDEBUG -mwindows -Wl,--whole-archive CMakeFiles\SmartHostelManagementSystem.dir/objects.a -Wl,--no-whole-archive -o SmartHostelManagementSystem.exe -Wl,--out-implib,libSmartHostelManagementSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SmartHostelManagementSystem.dir\linkLibs.rsp

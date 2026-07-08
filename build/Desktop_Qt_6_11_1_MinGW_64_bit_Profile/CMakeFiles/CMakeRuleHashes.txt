@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ca90c05fe784c40b2ac81c2253432986 CMakeFiles/SmartHostelManagementSystem_autogen
+1e0fbb4dee914a3270fbc041bff3f845 SmartHostelManagementSystem_autogen/timestamp

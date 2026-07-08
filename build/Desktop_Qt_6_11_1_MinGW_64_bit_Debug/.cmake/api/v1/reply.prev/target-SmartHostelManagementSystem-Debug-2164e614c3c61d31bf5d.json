@@ -84,13 +84,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 26,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 20,
+				"line" : 22,
 				"parent" : 0
 			},
 			{
@@ -419,7 +419,8 @@
 				6,
 				9,
 				12,
-				15
+				15,
+				18
 			]
 		}
 	],
@@ -541,12 +542,13 @@
 			"sourceIndexes" : 
 			[
 				0,
-				18,
-				19,
-				20,
 				21,
 				22,
-				23
+				23,
+				24,
+				25,
+				26,
+				27
 			]
 		},
 		{
@@ -558,7 +560,8 @@
 				6,
 				9,
 				12,
-				15
+				15,
+				18
 			]
 		},
 		{
@@ -569,7 +572,8 @@
 				5,
 				8,
 				11,
-				14
+				14,
+				17
 			]
 		},
 		{
@@ -580,21 +584,22 @@
 				7,
 				10,
 				13,
-				16
+				16,
+				19
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				17
+				20
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				24
+				28
 			]
 		}
 	],
@@ -694,6 +699,22 @@
 			"sourceGroupIndex" : 3
 		},
 		{
+			"backtrace" : 4,
+			"path" : "complaintmanagement.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "complaintmanagement.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "complaintmanagement.ui",
+			"sourceGroupIndex" : 3
+		},
+		{
 			"backtrace" : 47,
 			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem.exe.manifest",
 			"sourceGroupIndex" : 4
@@ -726,6 +747,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem_autogen/include/ui_feemanagement.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem_autogen/include/ui_complaintmanagement.h",
 			"sourceGroupIndex" : 0
 		},
 		{

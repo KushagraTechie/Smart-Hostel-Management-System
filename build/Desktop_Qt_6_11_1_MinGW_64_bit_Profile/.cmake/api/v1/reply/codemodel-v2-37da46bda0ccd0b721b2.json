@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d4e72e871e0b43d8e749.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmartHostelManagementSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHostelManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHostelManagementSystem-RelWithDebInfo-f9c490d9fa37268ed7e1.json",
+					"name" : "SmartHostelManagementSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHostelManagementSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHostelManagementSystem_autogen-RelWithDebInfo-b655b1bd0aa6cf36a035.json",
+					"name" : "SmartHostelManagementSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHostelManagementSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHostelManagementSystem_autogen_timestamp_deps-RelWithDebInfo-71be6957a2411e6208b1.json",
+					"name" : "SmartHostelManagementSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Profile",
+		"source" : "C:/Users/shivv/Downloads/SmartHostelManagementSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

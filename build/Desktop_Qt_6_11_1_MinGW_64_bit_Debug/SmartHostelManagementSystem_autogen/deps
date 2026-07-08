@@ -344,6 +344,8 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/SmartHostelManagementSystem_autogen/moc_predefs.h \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/complaintmanagement.cpp \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/complaintmanagement.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.cpp \
@@ -600,6 +602,7 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Users/shivv/Downloads/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/complaintmanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.ui \

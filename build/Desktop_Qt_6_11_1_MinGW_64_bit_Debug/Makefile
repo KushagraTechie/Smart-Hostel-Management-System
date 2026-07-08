@@ -223,6 +223,30 @@ SmartHostelManagementSystem_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/SmartHostelManagementSystem_autogen/mocs_compilation.cpp.s
 .PHONY : SmartHostelManagementSystem_autogen/mocs_compilation.cpp.s
 
+complaintmanagement.obj: complaintmanagement.cpp.obj
+.PHONY : complaintmanagement.obj
+
+# target to build an object file
+complaintmanagement.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/complaintmanagement.cpp.obj
+.PHONY : complaintmanagement.cpp.obj
+
+complaintmanagement.i: complaintmanagement.cpp.i
+.PHONY : complaintmanagement.i
+
+# target to preprocess a source file
+complaintmanagement.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/complaintmanagement.cpp.i
+.PHONY : complaintmanagement.cpp.i
+
+complaintmanagement.s: complaintmanagement.cpp.s
+.PHONY : complaintmanagement.s
+
+# target to generate assembly for a file
+complaintmanagement.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SmartHostelManagementSystem.dir\build.make CMakeFiles/SmartHostelManagementSystem.dir/complaintmanagement.cpp.s
+.PHONY : complaintmanagement.cpp.s
+
 dialog.obj: dialog.cpp.obj
 .PHONY : dialog.obj
 
@@ -385,6 +409,9 @@ help:
 	@echo ... SmartHostelManagementSystem_autogen/mocs_compilation.obj
 	@echo ... SmartHostelManagementSystem_autogen/mocs_compilation.i
 	@echo ... SmartHostelManagementSystem_autogen/mocs_compilation.s
+	@echo ... complaintmanagement.obj
+	@echo ... complaintmanagement.i
+	@echo ... complaintmanagement.s
 	@echo ... dialog.obj
 	@echo ... dialog.i
 	@echo ... dialog.s

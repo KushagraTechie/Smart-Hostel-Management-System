@@ -20,6 +20,7 @@ private slots:
     void on_btnStudentManagement_clicked();
     void on_btnRoomManagement_clicked();
     void on_btnFeeManagement_clicked();
+    void on_btnComplaintManagement_clicked();
 private:
     Ui::Dialog *ui;
 };

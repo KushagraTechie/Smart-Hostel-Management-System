@@ -70,7 +70,7 @@
     <string>Fee Management</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
+  <widget class="QPushButton" name="btnComplaintManagement">
    <property name="geometry">
     <rect>
      <x>310</x>

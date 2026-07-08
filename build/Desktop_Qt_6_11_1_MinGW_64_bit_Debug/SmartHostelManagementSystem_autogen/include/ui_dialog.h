@@ -24,7 +24,7 @@ public:
     QPushButton *btnStudentManagement;
     QPushButton *btnRoomManagement;
     QPushButton *btnFeeManagement;
-    QPushButton *pushButton_4;
+    QPushButton *btnComplaintManagement;
     QPushButton *pushButton_5;
     QPushButton *btnLogout;
 
@@ -48,9 +48,9 @@ public:
         btnFeeManagement = new QPushButton(Dialog);
         btnFeeManagement->setObjectName("btnFeeManagement");
         btnFeeManagement->setGeometry(QRect(80, 170, 151, 29));
-        pushButton_4 = new QPushButton(Dialog);
-        pushButton_4->setObjectName("pushButton_4");
-        pushButton_4->setGeometry(QRect(310, 170, 171, 29));
+        btnComplaintManagement = new QPushButton(Dialog);
+        btnComplaintManagement->setObjectName("btnComplaintManagement");
+        btnComplaintManagement->setGeometry(QRect(310, 170, 171, 29));
         pushButton_5 = new QPushButton(Dialog);
         pushButton_5->setObjectName("pushButton_5");
         pushButton_5->setGeometry(QRect(90, 230, 90, 29));
@@ -70,7 +70,7 @@ public:
         btnStudentManagement->setText(QCoreApplication::translate("Dialog", "Student Management", nullptr));
         btnRoomManagement->setText(QCoreApplication::translate("Dialog", "Room Management", nullptr));
         btnFeeManagement->setText(QCoreApplication::translate("Dialog", "Fee Management", nullptr));
-        pushButton_4->setText(QCoreApplication::translate("Dialog", "Complaint Management", nullptr));
+        btnComplaintManagement->setText(QCoreApplication::translate("Dialog", "Complaint Management", nullptr));
         pushButton_5->setText(QCoreApplication::translate("Dialog", "Profile", nullptr));
         btnLogout->setText(QCoreApplication::translate("Dialog", "Logout", nullptr));
     } // retranslateUi

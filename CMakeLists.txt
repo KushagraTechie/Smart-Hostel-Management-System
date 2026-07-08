@@ -15,6 +15,9 @@ qt_add_executable(SmartHostelManagementSystem
     studentmanagement.h studentmanagement.cpp studentmanagement.ui
     roommanagement.h roommanagement.cpp roommanagement.ui
     feemanagement.h feemanagement.cpp feemanagement.ui
+    complaintmanagement.h complaintmanagement.cpp complaintmanagement.ui
+    profile.ui
+
 )
 
 target_link_libraries(SmartHostelManagementSystem

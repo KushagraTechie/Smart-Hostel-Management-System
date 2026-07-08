@@ -1,6 +1,6 @@
 CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj: \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\dialog.cpp \
- C:\Users\shivv\Downloads\SmartHostelManagementSystem\feemanagement.h \
+ C:\Users\shivv\Downloads\SmartHostelManagementSystem\complaintmanagement.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/QDialog \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/qdialog.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -385,6 +385,7 @@ CMakeFiles/SmartHostelManagementSystem.dir/dialog.cpp.obj: \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtWidgets/qsizepolicy.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtGui/qcursor.h \
  C:/Users/shivv/Downloads/6.11.1/mingw_64/include/QtGui/qbitmap.h \
+ C:\Users\shivv\Downloads\SmartHostelManagementSystem\feemanagement.h \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\roommanagement.h \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\studentmanagement.h \
  C:\Users\shivv\Downloads\SmartHostelManagementSystem\mainwindow.h \
