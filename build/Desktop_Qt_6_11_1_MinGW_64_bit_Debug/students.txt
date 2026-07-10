@@ -1,5 +1,0 @@
-101,kush,12403804,A102,1234567,bajpai23@gmail.com,btech,2024
-103,bajpai,12403807,C807,7081234,love246@gmail.com,MBBS,2022
-124,Kusahgra,12403084,A-102,7085161322,Bajpai24@gmail.com,B.tech,2024
-101,kush,12403804,A102,1234567,bajpai23@gmail.com,btech,2024
-103,bajpai,12403807,C807,7081234,love246@gmail.com,MBA,2022
