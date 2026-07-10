@@ -16,7 +16,8 @@ qt_add_executable(SmartHostelManagementSystem
     roommanagement.h roommanagement.cpp roommanagement.ui
     feemanagement.h feemanagement.cpp feemanagement.ui
     complaintmanagement.h complaintmanagement.cpp complaintmanagement.ui
-    profile.ui
+
+
 
 )
 

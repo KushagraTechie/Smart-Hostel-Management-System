@@ -3,5 +3,6 @@
 #include "EWIEGA46WW/moc_dialog.cpp"
 #include "EWIEGA46WW/moc_feemanagement.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
+#include "EWIEGA46WW/moc_profile.cpp"
 #include "EWIEGA46WW/moc_roommanagement.cpp"
 #include "EWIEGA46WW/moc_studentmanagement.cpp"

@@ -353,6 +353,8 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/main.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.h \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/profile.cpp \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/profile.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.cpp \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.h \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.cpp \
@@ -606,6 +608,7 @@ SmartHostelManagementSystem_autogen/timestamp: \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/dialog.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/feemanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/mainwindow.ui \
+	C:/Users/shivv/Downloads/SmartHostelManagementSystem/profile.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/roommanagement.ui \
 	C:/Users/shivv/Downloads/SmartHostelManagementSystem/studentmanagement.ui \
 	C:/Users/shivv/Downloads/Tools/CMake_64/bin/cmake.exe

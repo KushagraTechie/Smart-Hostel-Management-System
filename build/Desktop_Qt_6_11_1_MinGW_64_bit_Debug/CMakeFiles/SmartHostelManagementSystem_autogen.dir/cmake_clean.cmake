@@ -4,7 +4,6 @@ file(REMOVE_RECURSE
   "SmartHostelManagementSystem_autogen/include/ui_dialog.h"
   "SmartHostelManagementSystem_autogen/include/ui_feemanagement.h"
   "SmartHostelManagementSystem_autogen/include/ui_mainwindow.h"
-  "SmartHostelManagementSystem_autogen/include/ui_profile.h"
   "SmartHostelManagementSystem_autogen/include/ui_roommanagement.h"
   "SmartHostelManagementSystem_autogen/include/ui_studentmanagement.h"
   "SmartHostelManagementSystem_autogen/mocs_compilation.cpp"

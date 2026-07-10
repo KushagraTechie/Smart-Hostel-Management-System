@@ -10,6 +10,11 @@
     <height>548</height>
    </rect>
   </property>
+  <property name="font">
+   <font>
+    <bold>true</bold>
+   </font>
+  </property>
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
@@ -18,13 +23,14 @@
     <rect>
      <x>170</x>
      <y>20</y>
-     <width>611</width>
+     <width>641</width>
      <height>41</height>
     </rect>
    </property>
    <property name="font">
     <font>
      <pointsize>20</pointsize>
+     <bold>true</bold>
     </font>
    </property>
    <property name="text">
@@ -34,8 +40,8 @@
   <widget class="QPushButton" name="btnStudentManagement">
    <property name="geometry">
     <rect>
-     <x>80</x>
-     <y>100</y>
+     <x>180</x>
+     <y>110</y>
      <width>161</width>
      <height>29</height>
     </rect>
@@ -47,8 +53,8 @@
   <widget class="QPushButton" name="btnRoomManagement">
    <property name="geometry">
     <rect>
-     <x>330</x>
-     <y>100</y>
+     <x>480</x>
+     <y>110</y>
      <width>151</width>
      <height>29</height>
     </rect>
@@ -60,8 +66,8 @@
   <widget class="QPushButton" name="btnFeeManagement">
    <property name="geometry">
     <rect>
-     <x>80</x>
-     <y>170</y>
+     <x>190</x>
+     <y>200</y>
      <width>151</width>
      <height>29</height>
     </rect>
@@ -73,8 +79,8 @@
   <widget class="QPushButton" name="btnComplaintManagement">
    <property name="geometry">
     <rect>
-     <x>310</x>
-     <y>170</y>
+     <x>470</x>
+     <y>200</y>
      <width>171</width>
      <height>29</height>
     </rect>
@@ -83,24 +89,11 @@
     <string>Complaint Management</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_5">
-   <property name="geometry">
-    <rect>
-     <x>90</x>
-     <y>230</y>
-     <width>90</width>
-     <height>29</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Profile</string>
-   </property>
-  </widget>
   <widget class="QPushButton" name="btnLogout">
    <property name="geometry">
     <rect>
-     <x>350</x>
-     <y>230</y>
+     <x>380</x>
+     <y>280</y>
      <width>90</width>
      <height>29</height>
     </rect>
